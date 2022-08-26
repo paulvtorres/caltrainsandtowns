@@ -66,3 +66,5 @@ PROGRAM INSTRUCTIONS
 
 To obtain the results of the program, you must enter the information in a single string separated by "," as an example "AB5,BC4,CD8,DC8,DE6,AD5,CE2,EB3,AE7"
 The program validates that the information is correct to proceed to display the results.
+
+Developed in Java Netbeans
